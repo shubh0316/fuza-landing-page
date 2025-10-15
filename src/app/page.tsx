@@ -34,7 +34,7 @@ export default function Home() {
         <Image 
           src={logo} 
           alt="Logo" 
-          className="w-72 h-auto md:w-[28rem]"
+          className="w-72 h-auto md:w-[36rem]"
           priority
         />
       </div>
